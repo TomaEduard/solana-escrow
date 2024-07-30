@@ -1,6 +1,4 @@
 # solana-escrow
-# solana-escrow
-# solana-escrow
 ==> Searching for similarly named casks...
 ==> Casks
 git-credential-manager
