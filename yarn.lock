@@ -55,12 +55,13 @@
   resolved "https://registry.npmjs.org/@noble/hashes/-/hashes-1.4.0.tgz"
   integrity sha512-V1JJ1WTRUqHHrOSh597hURcMqVKVGL/ea3kv0gSnEdsEZ0/+VyPghM1lMNGc00z7CIQorSvbKpuJkxvuHbvdbg==
 
-"@solana-developers/helpers@^2.4.0":
-  version "2.4.0"
-  resolved "https://registry.npmjs.org/@solana-developers/helpers/-/helpers-2.4.0.tgz"
-  integrity sha512-eiqHOluJlP9cYfAkgSLaM6o5etWfbBbjNnR3AL0Ds09CJdA3A61qimCPQFmjiLynAb6U7/NSWq0Q28/hnb02Bw==
+"@solana-developers/helpers@^2.5.0":
+  version "2.5.0"
+  resolved "https://registry.npmjs.org/@solana-developers/helpers/-/helpers-2.5.0.tgz"
+  integrity sha512-QKm22DUFcDseUJ+rjZtIJmw6k5KHe5hV6K3g1RVISitL1KoKPfLYMqAjBQlUcT1KG0GNCpmOKT1dFjJTBsm+1w==
   dependencies:
     "@solana/spl-token" "^0.4.8"
+    "@solana/spl-token-metadata" "^0.1.4"
     "@solana/web3.js" "^1.95.2"
     bs58 "^6.0.0"
     dotenv "^16.4.5"
@@ -213,7 +214,7 @@
     "@solana/codecs" "2.0.0-preview.4"
     "@solana/spl-type-length-value" "0.1.0"
 
-"@solana/spl-token-metadata@^0.1.3":
+"@solana/spl-token-metadata@^0.1.3", "@solana/spl-token-metadata@^0.1.4":
   version "0.1.4"
   resolved "https://registry.npmjs.org/@solana/spl-token-metadata/-/spl-token-metadata-0.1.4.tgz"
   integrity sha512-N3gZ8DlW6NWDV28+vCCDJoTqaCZiF/jDUnk3o8GRkAFzHObiR60Bs1gXHBa8zCPdvOwiG6Z3dg5pg7+RW6XNsQ==
